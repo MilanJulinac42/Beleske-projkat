@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "119b989b4d4fb4a3130b6bac",
+    "title" : "Prva beleska od usera Milan",
+    "content" : "Sadrzaj prve beleske",
+    "remindAt" : "2022-11-24 12:21:00.000Z",
+    "user": "619b989b4d4fb4a3130b6bac"
+  },
+  {
+    "_id": "219b989b4d4fb4a3130b6bac",
+    "title" : "Druga beleska od usera Milan",
+    "content" : "Sadrzaj druge beleske",
+    "remindAt" : "2022-11-27 11:55:00.000Z",
+    "user": "619b989b4d4fb4a3130b6bac"
+  },
+  {
+    "_id": "319b989b4d4fb4a3130b6bac",
+    "title" : "Treca beleska",
+    "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue mauris augue neque gravida in fermentum et. Consequat interdum varius sit amet mattis vulputate enim nulla. Lectus nulla at volutpat diam. In ornare quam viverra orci sagittis eu volutpat odio facilisis. Et netus et malesuada fames ac turpis egestas maecenas pharetra.",
+    "remindAt" : "2022-11-25 12:43:00.000Z",
+    "user": "619b989b4d4fb4a3130b6bac"
+  },
+  {
+    "_id": "419b989b4d4fb4a3130b6bac",
+    "title" : "Cetvrta beleska",
+    "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue mauris augue neque gravida in fermentum et. Consequat interdum varius sit amet mattis vulputate enim nulla. Lectus nulla at volutpat diam. In ornare quam viverra orci sagittis eu volutpat odio facilisis. Et netus et malesuada fames ac turpis egestas maecenas pharetra.",
+    "remindAt" : "2022-11-27 19:03:00.000Z",
+    "user": "619b989b4d4fb4a3130b6bac"
+  },
+  {
+    "_id": "519b989b4d4fb4a3130b6bac",
+    "title" : "Peta beleska",
+    "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue mauris augue neque gravida in fermentum et. Consequat interdum varius sit amet mattis vulputate enim nulla. Lectus nulla at volutpat diam. In ornare quam viverra orci sagittis eu volutpat odio facilisis. Et netus et malesuada fames ac turpis egestas maecenas pharetra.",
+    "remindAt" : "2022-11-27 21:13:00.000Z",
+    "user": "619b989b4d4fb4a3130b6baa"
+    
+  },
+  {
+    "_id": "719b989b4d4fb4a3130b6bac",
+    "title" : "Sesta beleska",
+    "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue mauris augue neque gravida in fermentum et. Consequat interdum varius sit amet mattis vulputate enim nulla. Lectus nulla at volutpat diam. In ornare quam viverra orci sagittis eu volutpat odio facilisis. Et netus et malesuada fames ac turpis egestas maecenas pharetra.",
+    "remindAt" : "2022-11-30 18:23:00.000Z",
+    "user": "619b989b4d4fb4a3130b6bab"
+  },
+  {
+    "_id": "819b989b4d4fb4a3130b6bac",
+    "title" : "Sedma beleska",
+    "content" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue mauris augue neque gravida in fermentum et. Consequat interdum varius sit amet mattis vulputate enim nulla. Lectus nulla at volutpat diam. In ornare quam viverra orci sagittis eu volutpat odio facilisis. Et netus et malesuada fames ac turpis egestas maecenas pharetra.",
+    "remindAt" : "2022-11-25 15:07:00.000Z",
+    "user": "619b989b4d4fb4a3130b6bab"
+  }
+]

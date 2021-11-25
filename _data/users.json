@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "619b989b4d4fb4a3130b6bac",
+    "name" : "Milan Julinac",
+    "email" : "milanjulinac996@gmail.com",
+    "password" : "123123123"  
+  },
+  {
+    "_id": "619b989b4d4fb4a3130b6baa",
+    "name" : "Random Korisnik",
+    "email" : "randomadresa@gmail.com",
+    "password" : "321h3h21"
+  },
+  {
+    "_id": "619b989b4d4fb4a3130b6bab",
+    "name" : "Marko Markovic",
+    "email" : "markomarkovic@gmail.com",
+    "password" : "ds7d8ass"
+  },
+  {
+    "_id": "619b989b4d4fb4a3130b3bac",
+    "name" : "Marko Jovanovic",
+    "email" : "markojovanovic@gmail.com",
+    "password" : "32312bh31h"
+  }
+]
